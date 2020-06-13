@@ -1,0 +1,1 @@
+# R-The project is set to explore and identify differences and relationship between customers of 3 treadmill products in a store. It was observed that the income, gender, age and marital status is a major determinant of the type of products the customers are willing to buy. This will give an insight into the target market for the store.
